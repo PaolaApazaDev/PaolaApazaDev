@@ -1,5 +1,5 @@
 ## ✨ Hi there! I'm Paola ☀️🍂
-📌 **Systems Engineering Student** | 💻 Passionate about Web Development | 🐱 Cat & 🐶dog lover  
+📌 **Systems Engineering** | 💻 Passionate about Web Development | 🐱 Cat & 🐶dog lover  
 
 ---
 
