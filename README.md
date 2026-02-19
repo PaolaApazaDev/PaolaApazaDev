@@ -4,11 +4,10 @@
 ---
 
 ### 🌱 About Me  
-🚀 Aspiring **Full Stack Developer**  
-🌿 Currently learning **Next.js** & **Nest.js**  
-🎯 Looking for mentorship & collaboration opportunities  
-✨ Exploring the world of **modern web development**  
-
+🚀 **Full Stack Developer** especializado en arquitecturas modernas.   
+🛠️ Dominio avanzado de **Next.js** para interfaces de alto rendimiento y **Nest.js** para backends escalables.Currently learning   
+🏗️ Enfocada en la implementación de Clean Architecture, patrones de diseño y optimización de bases de datos.  
+✨ Transformando ideas complejas en aplicaciones web robustas y eficientes.
 ---
 
 ### 🛠 Tech Stack  
